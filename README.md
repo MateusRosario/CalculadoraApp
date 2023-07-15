@@ -3,4 +3,7 @@
 Primeiro projeto android qeu fiz no terceiro semestre da graduação para aprender desenvolvimento
 mobile.
 
-![imagem](img.jpeg) ![imagem](img2.jpeg)
+<p float="left">
+  <img src="img.jpeg" width="250" />
+  <img src="img2.jpeg" width="250" /> 
+</p>
